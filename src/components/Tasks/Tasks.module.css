@@ -1,0 +1,6 @@
+.wrapper{
+  display: flex;
+  width: 600px;
+  align-items: center;
+  flex-direction: column;
+}
